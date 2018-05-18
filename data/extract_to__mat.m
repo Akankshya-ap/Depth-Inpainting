@@ -1,0 +1,2 @@
+im = imread('C:\Users\CV LAB\Desktop\deep_image\code\deep-image-prior\edgeGuidedSDSP-master\edgeGuidedSDSP-master\inputs\bicubic.png');
+save('C:\Users\CV LAB\Desktop\deep_image\code\deep-image-prior\edgeGuidedSDSP-master\edgeGuidedSDSP-master\inputs\bicubic.mat', 'im');
